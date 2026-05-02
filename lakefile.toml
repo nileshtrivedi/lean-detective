@@ -1,0 +1,10 @@
+name = "detective"
+version = "0.1.0"
+defaultTargets = ["detective"]
+
+[[lean_lib]]
+name = "Detective"
+
+[[lean_exe]]
+name = "detective"
+root = "Main"
